@@ -27,7 +27,6 @@ df = df_clean.groupBy("Score") \
                    .orderBy("Score")
 
 
-# Ghi ra file
 with open('./result/bai5.txt', 'w', encoding='utf-8') as f:
     f.write (f"Điểm đánh giá trung bình: {avg_score}\n\n")
     rows = df.collect ()
