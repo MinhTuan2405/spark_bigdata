@@ -1,0 +1,27 @@
+Germany: 41754 orders
+France: 12848 orders
+Netherlands: 11629 orders
+Belgium: 5464 orders
+Austria: 5043 orders
+Switzerland: 3640 orders
+United Kingdom: 3382 orders
+Poland: 2139 orders
+Czechia: 2034 orders
+Italy: 2025 orders
+Spain: 1651 orders
+Portugal: 1336 orders
+Sweden: 975 orders
+Denmark: 905 orders
+Serbia: 746 orders
+Norway: 716 orders
+Slovakia: 534 orders
+Slovenia: 495 orders
+Turkey: 485 orders
+Greece: 412 orders
+Lithuania: 351 orders
+Latvia: 280 orders
+Croatia: 254 orders
+Estonia: 148 orders
+Finland: 81 orders
+Luxembourg: 68 orders
+Andorra: 46 orders
