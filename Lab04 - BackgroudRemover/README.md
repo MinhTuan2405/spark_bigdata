@@ -1,4 +1,4 @@
-# Báo Cáo Lab Spark - Ứng dụng Bachgroud Remover với Spark
+# Báo Cáo Lab Spark - Ứng dụng Backgroud Remover với Spark
 
 ## Thông Tin
 - **Môn học**: IE212 - Big Data
@@ -11,7 +11,6 @@
 ## Yêu Cầu Hệ Thống
 - Docker Desktop đã được cài đặt và chạy
 - Docker Compose
-- Hệ điều hành: Windows/Linux/MacOS
 
 ## Cấu Trúc Dự Án
 ```
